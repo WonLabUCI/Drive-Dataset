@@ -34,6 +34,6 @@ We trained and validated the adapted U-Net model using the depth dataset from Ki
 
 ### Image Comparison
 
-![Depth Estimation](path_to_your_image.png)
+![Depth Estimation](https://github.com/WonLabUCI/Drive-Dataset/tree/main/Projects/Images#:~:text=..-,Depth%2DEstimation.png,-projects)
 *Illustration of an encoder-decoder architecture for depth estimation from images under various weather conditions. The left side depicts the model's architecture, with the encoder compressing the input image and the decoder reconstructing depth information. The right side shows examples of depth predictions for different weather scenarios (sunny, rainy, snowy) compared to LiDAR ground truth. The model performs well under clear conditions but shows variability in accuracy with adverse weather, highlighting the challenges in depth prediction using monocular vision systems.*
 
