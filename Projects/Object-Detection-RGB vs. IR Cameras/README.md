@@ -24,7 +24,7 @@ We employed YOLOv8, a state-of-the-art object detection architecture, due to its
 Although RGB cameras demonstrated high accuracy, they failed to detect objects in certain scenarios, such as at the entrances and exits of tunnels where lighting conditions change abruptly. Conversely, IR cameras consistently detected objects, including people from significant distances. In adverse weather conditions like fog or dust, where visibility is compromised for both RGB cameras and drivers, IR cameras continued to perform effectively. At night, IR cameras maintained their detection capabilities, particularly on two-way roads where the headlights of oncoming vehicles impair visibility for drivers and RGB cameras. IR cameras, unaffected by these issues, functioned optimally.
 
 ## Image Comparison
-
+![IRvsRGB](Projects/Images/IRvsRGB.png)
 Figure 5. Comparison of object detection capabilities between RGB and IR cameras in various challenging conditions:
 - **(a)** Detection at the entrance of a tunnel, demonstrating IR camera's superior performance despite lighting changes.
 - **(b)** Detection on a foggy road, showing IR camera's ability to detect distant objects that RGB cameras miss.
