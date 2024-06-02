@@ -8,10 +8,10 @@ DRIVE (Deep Representative Input for Vision Environment) is a comprehensive data
 
 The DRIVE dataset includes a variety of sensor data from different environments and conditions, aimed at providing a robust foundation for training and evaluating machine learning models in the context of autonomous driving. The data encompasses:
 
-- **High-Resolution Camera Images:** 
-- **LiDAR Point Clouds:** 
-- **Segmentation Annotations:** 
-- **Environmental Conditions:** 
+- **....** 
+- **....:** 
+- **...:** 
+- **...:** 
 
 ## Goals and Applications
 
