@@ -5,13 +5,13 @@
 DRIVE (Deep Representative Input for Vision Environment) is a comprehensive dataset designed for advancing the research and development of autonomous vehicles. This dataset has been meticulously collected by the collaborative efforts of Hyundai Company and the University of California, Irvine (UCI).
 
 ## Dataset Description
+![Figure2](https://github.com/WonLabUCI/Drive-Dataset/blob/b3ea2ba3b97a05428bb7dfd448e89a8930c5023f/Projects/Figures/Figure2.png)
+The DRIVE dataset includes a variety of sensor data from different environments and conditions, aimed at providing a robust foundation for training and evaluating machine learning models in the context of autonomous driving. The data encompasses 
 
-The DRIVE dataset includes a variety of sensor data from different environments and conditions, aimed at providing a robust foundation for training and evaluating machine learning models in the context of autonomous driving. The data encompasses:
-
-- **....** 
-- **....:** 
-- **...:** 
-- **...:** 
+- **LiDAR:** 
+- **Camera:** 
+- **LiDAR Cam:** 
+- **Infrared Camera:** 
 
 ## Goals and Applications
 
