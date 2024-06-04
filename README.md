@@ -43,4 +43,4 @@ We extend our gratitude to Hyundai Company and the University of California, Irv
 
 ## License
 
-This dataset is licensed under the [appropriate license]. Please refer to the LICENSE file for detailed information.
+DRIVE dataset and codes are released under the Creative Commons Attribution 4.0 International License.
