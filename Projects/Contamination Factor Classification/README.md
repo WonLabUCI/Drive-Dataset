@@ -1,4 +1,4 @@
-# Contaminant Factor Classification Model Using Only LiDAR Data
+# Environmental Factor Classification Model Using Only LiDAR Data
 
 ## Overview
 Analyzing the impact of weather and environment on LiDAR is critical to ensure the safety of the car and the reliability of LiDAR sensors. The method of distinguishing between weather and contaminants using LiDAR point cloud data has been continuously studied. This document presents a model that improves upon past methods by utilizing machine learning and deep learning techniques to classify various contamination factors.
