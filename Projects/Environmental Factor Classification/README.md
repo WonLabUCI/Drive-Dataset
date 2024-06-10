@@ -13,7 +13,7 @@ The model utilizes a dataset comprising point cloud data from LiDAR sensors moun
 ## Methodology
 The model leverages 16 feature vectors constructed from one frame of the near-field point cloud, which is the point cloud within a radius of 1 meter around the LiDAR. This reflects a more realistic situation based on data from the sensor cover, contaminated by real-world driving.
 
-![https://github.com/WonLabUCI/Drive-Dataset/Projects/Figure/Classification Model.png](https://github.com/WonLabUCI/Drive-Dataset/blob/main/Projects/Figure/Classification Model.png)
+![https://github.com/WonLabUCI/Drive-Dataset/Projects/Figure/Classification-Model.png](https://github.com/WonLabUCI/Drive-Dataset/blob/main/Projects/Figure/Classification-Model.png)
 *Figure: Architecture of the Environmental Factor Classification Model*
 
 ## Experiment Results
