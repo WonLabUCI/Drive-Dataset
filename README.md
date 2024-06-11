@@ -36,7 +36,7 @@ The development of the DRIVE dataset has been a joint effort between Hyundai Com
 5. 
 ## Website
 
-For more information, visit our website: [DRIVE Project Website](http://your-website-link.com)
+For more information, visit our website: [DRIVE Project Website](https://driveuci.wixsite.com/drivedataset)
 
 ## Acknowledgments
 
