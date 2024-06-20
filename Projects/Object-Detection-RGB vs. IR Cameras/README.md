@@ -14,12 +14,10 @@ We employed YOLOv8, a state-of-the-art object detection architecture, due to its
 
 - **IR Data:**
   - Accuracy:
-  - Mean Average Precision (mAP) of 50%: 99.5% accuracy.
-  - Mean Average Precision (mAP) of 95%: 82% accuracy.
+  - Mean Average Precision (mAP) of 50%: 91% accuracy.
 - **RGB Data:**
   - Accuracy: 
-  - Mean Average Precision (mAP) of 50%: 99% accuracy.
-  - Mean Average Precision (mAP) of 95%: 75% accuracy.
+  - Mean Average Precision (mAP) of 50%: 82% accuracy.
 
 Although RGB cameras demonstrated high accuracy, they failed to detect objects in certain scenarios, such as at the entrances and exits of tunnels where lighting conditions change abruptly. Conversely, IR cameras consistently detected objects, including people from significant distances. In adverse weather conditions like fog or dust, where visibility is compromised for both RGB cameras and drivers, IR cameras continued to perform effectively. At night, IR cameras maintained their detection capabilities, particularly on two-way roads where the headlights of oncoming vehicles impair visibility for drivers and RGB cameras. IR cameras, unaffected by these issues, functioned optimally.
 
