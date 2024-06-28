@@ -10,7 +10,7 @@ Our dataset is uniquely poised to advance research in depth estimation due to it
 
 ## Methodology
 
-Inspired by [Reference], we adopted the U-Net encoder-decoder architecture, renowned for its efficiency in image segmentation, and adapted it for depth estimation. This model excels at capturing both high-level context and intricate details, which are vital for generating precise depth maps from RGB images.
+Inspired by [Learning Depth from Single Monocular Images](https://arxiv.org/abs/1502.07411), we adopted the U-Net encoder-decoder architecture, renowned for its efficiency in image segmentation, and adapted it for depth estimation. This model excels at capturing both high-level context and intricate details, which are vital for generating precise depth maps from RGB images.
 
 ### Encoder (Contracting Path)
 
